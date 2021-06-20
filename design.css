@@ -1,0 +1,36 @@
+body {
+  background-color: khaki;
+  text-align: center;
+  /* line-height: .5; */
+}
+h1 {
+  padding: 3% 2%;
+  margin: 0;
+}
+.container {
+  font-family: 'Balsamiq Sans', cursive;
+  color: dimgrey;
+}
+.title {
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.pick-img {
+  display: inline;
+  height: 20rem;
+}
+.play-btn {
+  text-decoration: none;
+  color: black;
+}
+.btn {
+  margin: 5px 100px;
+}
+.foot {
+  font-family: cursive;
+  font-weight: lighter;
+  font-size: .7rem;
+  line-height: 1.5;
+  margin: 40px 0;
+}
